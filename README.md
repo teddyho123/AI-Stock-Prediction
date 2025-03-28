@@ -11,6 +11,9 @@ Frontend - React
 
 Before developing:
 
+- Install venv
+- - python -m venv venv
+
 - Activate virtual environment
 - - venv/Scripts/activate
 
