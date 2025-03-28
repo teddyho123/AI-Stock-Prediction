@@ -1,4 +1,4 @@
-# Stock-Prediction-Algo
+# AI-Stock-Prediction
 A simple AI Stock Prediction model using LSTM library from tensorflow.keras.
 
 
